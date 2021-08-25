@@ -1,7 +1,8 @@
 # share-my-location
 In plain-js using Classes
+
 Using Google Map API
 
-GET your current Location
+GET Your Current Location
 
-GET location with coordinates
+GET Location With Coordinates
